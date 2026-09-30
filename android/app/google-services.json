@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "182967365317",
+    "project_id": "fishcaster-5349c",
+    "storage_bucket": "fishcaster-5349c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182967365317:android:d0f3db0fce742780398aac",
+        "android_client_info": {
+          "package_name": "com.fishCaster.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182967365317-4c7u8l37b0l4qi2q9ihi2smhr52a75qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fishCaster.app",
+            "certificate_hash": "cf53e7d82e83fbe1fb20ec6cdb260fca02c9e104"
+          }
+        },
+        {
+          "client_id": "182967365317-mhlka1ms8e59usebr9k30p4n227jvta1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fishCaster.app",
+            "certificate_hash": "189d785189ffc5c758c76d99d92e970d114674ef"
+          }
+        },
+        {
+          "client_id": "182967365317-6cbh068u83fk2jsbp9tdf160rv3a2una.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI1ZbYKHgAN79ul_OoddsfQBcQvawt1TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182967365317-6cbh068u83fk2jsbp9tdf160rv3a2una.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182967365317-23kdvireb2ocitkaoq8uuorciuocfqek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fishCaster.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
